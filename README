@@ -1,0 +1,10 @@
+TAREA PRESENTACIÓN 1 PRUEBAS DE SOFTWARE
+
+Nicolás Oporto
+201773107-9
+
+Descripción técnica aplicación:
+APlicación web CRUD que permite agregar, editar, deliminar y ver registros de contactos usando el stack de tecnología MEAN (MongoDB, Express, Angular).
+
+Objetivo: Hacer testing de casos de prueba que nos permitan: Agregar, Editar, Eliminar contactos.
+
